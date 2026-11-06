@@ -1,0 +1,10 @@
+const int START = 4;
+
+for (int row = START; row >= 1; row--)
+{
+	for (int number = row; number >= 1; number--)
+	{
+		Console.Write($"{number} ");
+	}
+	Console.WriteLine();
+}

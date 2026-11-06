@@ -1,0 +1,14 @@
+/Users/Freya Rumble/Desktop/PFnotes/PFPhoneBillPractice/PFPhoneBillPractice/bin/Debug/net10.0/PFPhoneBillPractice
+/Users/Freya Rumble/Desktop/PFnotes/PFPhoneBillPractice/PFPhoneBillPractice/bin/Debug/net10.0/PFPhoneBillPractice.deps.json
+/Users/Freya Rumble/Desktop/PFnotes/PFPhoneBillPractice/PFPhoneBillPractice/bin/Debug/net10.0/PFPhoneBillPractice.runtimeconfig.json
+/Users/Freya Rumble/Desktop/PFnotes/PFPhoneBillPractice/PFPhoneBillPractice/bin/Debug/net10.0/PFPhoneBillPractice.dll
+/Users/Freya Rumble/Desktop/PFnotes/PFPhoneBillPractice/PFPhoneBillPractice/bin/Debug/net10.0/PFPhoneBillPractice.pdb
+/Users/Freya Rumble/Desktop/PFnotes/PFPhoneBillPractice/PFPhoneBillPractice/obj/Debug/net10.0/PFPhoneBillPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Freya Rumble/Desktop/PFnotes/PFPhoneBillPractice/PFPhoneBillPractice/obj/Debug/net10.0/PFPhoneBillPractice.AssemblyInfoInputs.cache
+/Users/Freya Rumble/Desktop/PFnotes/PFPhoneBillPractice/PFPhoneBillPractice/obj/Debug/net10.0/PFPhoneBillPractice.AssemblyInfo.cs
+/Users/Freya Rumble/Desktop/PFnotes/PFPhoneBillPractice/PFPhoneBillPractice/obj/Debug/net10.0/PFPhoneBillPractice.csproj.CoreCompileInputs.cache
+/Users/Freya Rumble/Desktop/PFnotes/PFPhoneBillPractice/PFPhoneBillPractice/obj/Debug/net10.0/PFPhoneBillPractice.dll
+/Users/Freya Rumble/Desktop/PFnotes/PFPhoneBillPractice/PFPhoneBillPractice/obj/Debug/net10.0/refint/PFPhoneBillPractice.dll
+/Users/Freya Rumble/Desktop/PFnotes/PFPhoneBillPractice/PFPhoneBillPractice/obj/Debug/net10.0/PFPhoneBillPractice.pdb
+/Users/Freya Rumble/Desktop/PFnotes/PFPhoneBillPractice/PFPhoneBillPractice/obj/Debug/net10.0/PFPhoneBillPractice.genruntimeconfig.cache
+/Users/Freya Rumble/Desktop/PFnotes/PFPhoneBillPractice/PFPhoneBillPractice/obj/Debug/net10.0/ref/PFPhoneBillPractice.dll

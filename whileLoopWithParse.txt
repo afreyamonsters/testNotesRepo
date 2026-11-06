@@ -1,0 +1,9 @@
+int rideMinutes;
+	Console.Write($"Ride length in minutes ({MIN_RIDE_MINUTES} to {MAX_RIDE_MINUTES}): ");
+	
+	while (!int.TryParse(Console.ReadLine(), out rideMinutes) || rideMinutes < MIN_RIDE_MINUTES || rideMinutes > MAX_RIDE_MINUTES)
+	{
+	Console.WriteLine($"That isn't a whole number from {MIN_RIDE_MINUTES} to
+	{MAX_RIDE_MINUTES}. Try again.");
+	Console.Write($"Ride length in minutes ({MIN_RIDE_MINUTES} to {MAX_RIDE_MINUTES}): ");
+	}

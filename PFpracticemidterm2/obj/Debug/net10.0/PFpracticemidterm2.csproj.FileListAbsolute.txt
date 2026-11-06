@@ -1,0 +1,14 @@
+/Users/Freya Rumble/Desktop/PFnotes/PFpracticemidterm2/bin/Debug/net10.0/PFpracticemidterm2
+/Users/Freya Rumble/Desktop/PFnotes/PFpracticemidterm2/bin/Debug/net10.0/PFpracticemidterm2.deps.json
+/Users/Freya Rumble/Desktop/PFnotes/PFpracticemidterm2/bin/Debug/net10.0/PFpracticemidterm2.runtimeconfig.json
+/Users/Freya Rumble/Desktop/PFnotes/PFpracticemidterm2/bin/Debug/net10.0/PFpracticemidterm2.dll
+/Users/Freya Rumble/Desktop/PFnotes/PFpracticemidterm2/bin/Debug/net10.0/PFpracticemidterm2.pdb
+/Users/Freya Rumble/Desktop/PFnotes/PFpracticemidterm2/obj/Debug/net10.0/PFpracticemidterm2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Freya Rumble/Desktop/PFnotes/PFpracticemidterm2/obj/Debug/net10.0/PFpracticemidterm2.AssemblyInfoInputs.cache
+/Users/Freya Rumble/Desktop/PFnotes/PFpracticemidterm2/obj/Debug/net10.0/PFpracticemidterm2.AssemblyInfo.cs
+/Users/Freya Rumble/Desktop/PFnotes/PFpracticemidterm2/obj/Debug/net10.0/PFpracticemidterm2.csproj.CoreCompileInputs.cache
+/Users/Freya Rumble/Desktop/PFnotes/PFpracticemidterm2/obj/Debug/net10.0/PFpracticemidterm2.dll
+/Users/Freya Rumble/Desktop/PFnotes/PFpracticemidterm2/obj/Debug/net10.0/refint/PFpracticemidterm2.dll
+/Users/Freya Rumble/Desktop/PFnotes/PFpracticemidterm2/obj/Debug/net10.0/PFpracticemidterm2.pdb
+/Users/Freya Rumble/Desktop/PFnotes/PFpracticemidterm2/obj/Debug/net10.0/PFpracticemidterm2.genruntimeconfig.cache
+/Users/Freya Rumble/Desktop/PFnotes/PFpracticemidterm2/obj/Debug/net10.0/ref/PFpracticemidterm2.dll

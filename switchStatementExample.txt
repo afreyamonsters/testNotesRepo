@@ -1,0 +1,13 @@
+switch (selection)
+    {
+        case "A":
+        break;
+        case "B":
+            break;
+        case "Q":
+            hasQuit = true;
+            break;
+        default:
+            result = $"{selection} isn't an option. Please choose from the menu.";
+            break;
+    }

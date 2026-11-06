@@ -1,0 +1,9 @@
+const string MENU = """
+    ********************************
+    *       Practice Midterm       *
+    *                              *
+    *   A - Meeting Planner        *
+    *   B - Tree Growth            *
+    *   Q - Quit                   *
+    ********************************
+    """;
